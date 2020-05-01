@@ -1,0 +1,19 @@
+@import "_fonts";
+@import "_header";
+@import "_footer";
+@import "_utility";
+@import "_hero";
+@import "_about";
+@import "_desserts";
+
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+body {
+	font-family: "Gill Sans", sans-serif;
+	width: 100%;
+	background-color: #e6dfd9;
+	position: relative;
+}
